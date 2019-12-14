@@ -1,0 +1,119 @@
+
+.header{
+	background-color:#C6DEFF;
+	padding-top:10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	overflow: hidden;
+}
+.wrapper{;
+overflow: hidden;
+width:98%;
+	margin:0 auto;
+}
+.left{
+	width: 30%;
+	
+	float:left;
+	overflow: hidden;
+}
+.logo{width: 13%;
+float: left;}
+.logo img{}
+.text{width: 65%;
+float: left;}
+.text h1{margin-top: 10px;}
+.menu{
+	width: 65%;
+	float:left;
+}
+.menu ul{
+	list-style: none;
+}
+.menu ul li{
+
+}
+.menu ul li a{
+	text-decoration: none;
+    float: left;
+    padding-left: 8%;
+    padding-top: 10px;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 700;
+}
+.bannern{
+	background-image: url(home.jpg);
+	background-repeat: no-repeat;
+	-webkit-background-size:cover;
+	background-size: cover;
+	min-height: 500px;
+	overflow: hidden;
+}
+.text1{background-color: rgba(0, 0, 0, 0.4);
+ width: 287px;
+margin-left: 0px;
+margin-top: 194px;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 50px;
+color:#C6B5A5;
+font-family: sans-serif;
+
+}
+.text1 button{
+	border: none;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+.text1 button p{color: #CBBEB8;}
+.text1 h1{font-weight: 400;}
+.text1 h2{font-weight: 400;}
+.text1 button :hover{
+	background-color:white;
+	color: black;
+	cursor: pointer;
+}
+.weapper1{
+	width: 91%;
+	margin:0 auto;
+	padding-top:55px;
+}
+.single{
+	width: 33%;
+	float: left;
+}
+.single h1{
+	padding-left: 133px;
+	margin-bottom: 2px;
+	color: #BEB5B0;
+}
+.img img{
+padding-left: 75px;
+}
+.text2{}
+.text2 p{
+	padding-left: 60px;
+	font-size: 14px;
+	font-family: sans-serif;
+	font-weight: 400;
+	line-height: 27px;
+}
+.single button{
+	margin-left: 144px;
+     margin-top: 44px;
+     border: none;
+     background-color: #3B5576;border-radius: 4px;color:white;padding: 3px 12px;
+}
+.single button:hover{color:#28ABDF;}
+.top{}
+.top p{padding-left: 303px;
+font-family: sans-serif;line-height: 30px;font-size: 14px;}
+.custom{
+	width: 80%;
+	margin:0 auto;
+	min-height: 200px;
+	overflow: hidden;
+	padding-top: 81px;
+}
+.img1 img{padding-left: 395px;}
+.img1{}
